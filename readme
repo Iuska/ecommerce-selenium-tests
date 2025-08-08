@@ -1,0 +1,14 @@
+# E-commerce Selenium Automation Project
+
+This project automates the full workflow on [https://automationexercise.com](https://automationexercise.com) using Selenium.
+
+## Features Covered
+✅ Login
+✅ Product search & add to cart
+✅ Writing product review
+✅ Checkout
+✅ Payment
+
+## Tech Used
+- Python
+- Selenium
